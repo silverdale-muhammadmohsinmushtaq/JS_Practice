@@ -7,3 +7,6 @@ console.log(y);
 
 x = "Hello World 3";
 console.log(x);
+
+let BackTick = `${y + 21}`;
+console.log(`Summing variable using Backtick: ${BackTick}`);
